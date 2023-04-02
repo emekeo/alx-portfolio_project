@@ -1,4 +1,5 @@
 Project Name: E-Learning Portal for Data Analysis
+
 Tag-Line: Unleash your data expertise with our e-learning platform
 
 
@@ -70,6 +71,7 @@ Collaboration:
 
 I am working on an e-learning data analysis web base app  project alone, but getting help and advice from mates working on the same project.
 
-Screenshot:
-I currently don’t have a screenshot for my project at the moment.
+Project: 
+https://gistwithcollins.wixsite.com/lexron
+
 
